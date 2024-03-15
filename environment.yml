@@ -1,0 +1,19 @@
+name: py311_2024AICHEMIST
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - boost
+  - rdkit=2023.09
+  - jupyter
+  - notebook=6.5
+  - intake
+  - py3dmol
+  - ipywidgets
+  - pandas
+  - requests
+  - aiohttp
+  - scikit-learn
+  - scipy
+
